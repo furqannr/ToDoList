@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 //To do list
 import chalk from "chalk";
 import inquirer from "inquirer";
